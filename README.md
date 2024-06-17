@@ -1,20 +1,11 @@
-# Getting Started
-Install the dependencies and run the project in watch mode
-```
-npm install
-npm run build # or watch to rebuild on change
-open index.html
-```
-Note that using Webpack is obselete and this archive has been provided
-for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
-## About Scrimba
+This is the "My Travel Journal" solo project in Module 10 of Scrimba Frontend Developer Career Path. <br />
+The goal of the project is to display an understanding of passing props in React <br />
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Figma File <br />
+https://www.figma.com/design/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=2-2&t=zAJ10B6JIHxILnjG-0 <br />
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+My Deployed version <br />
+https://mytraveljournal-351329.netlify.app/ <br />
 
-Happy Coding!
+My code <br />
+https://github.com/Woosterwebdev/myTravelJournal
